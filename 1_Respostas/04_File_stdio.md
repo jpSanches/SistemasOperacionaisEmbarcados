@@ -204,7 +204,7 @@ char* le_arq_texto(char *nome_arquivo){
   if (fgets(texto,tamanho,fp) != tamanho) {
     printf("Erro ao ler o arquivo\n");
   }
-  \*/
+  */
   fclose(fp);
 
   return texto;
@@ -246,7 +246,7 @@ int main(int argc, char const *argv[]) {
 
   int tamanho = tam_arq_texto((char *) argv[2]);
   int palavra_chave = 0;
-  char \*texto;
+  char *texto;
 
   texto = malloc(sizeof(char) * tamanho);
 
