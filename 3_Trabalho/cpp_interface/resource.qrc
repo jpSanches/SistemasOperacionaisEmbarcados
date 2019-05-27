@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>scanner.png</file>
+        <file>mobile-app.png</file>
+        <file>inspiration.png</file>
+        <file>002-cold.png</file>
+        <file>023-wind.png</file>
+        <file>008-fan.png</file>
+        <file>003-heat.png</file>
+        <file>img/824687-air-conditioning/png/030-sleep.png</file>
+        <file>img/824687-air-conditioning/png/006-timer.png</file>
+        <file>img/824687-air-conditioning/png/011-air-conditioner.png</file>
+        <file>img/824687-air-conditioning/png/029-mode.png</file>
+        <file>3209402-128.png</file>
+        <file>iconfinder_control-eject-out-disk-remove_3209402.png</file>
+        <file>iconfinder_left_375755.png</file>
+        <file>iconfinder_down_375747.png</file>
+        <file>iconfinder_up_375749.png</file>
+        <file>iconfinder_right_375751.png</file>
+        <file>iconfinder_Power_symbol_2638316.png</file>
+        <file>iconfinder_v-24_3162619.png</file>
+        <file>iconfinder_v-21_3162621.png</file>
+        <file>iconfinder_v-23_3162620.png</file>
+        <file>img/iconfinder_outlined_comment_4280528.png</file>
+    </qresource>
+</RCC>
