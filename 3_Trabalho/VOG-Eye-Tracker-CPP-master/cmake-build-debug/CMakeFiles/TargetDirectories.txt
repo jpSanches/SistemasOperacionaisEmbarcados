@@ -1,0 +1,3 @@
+/Users/davimendes/CLionProjects/VOG-Eye-Tracker-CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/davimendes/CLionProjects/VOG-Eye-Tracker-CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davimendes/CLionProjects/VOG-Eye-Tracker-CPP/cmake-build-debug/CMakeFiles/opencv.dir
